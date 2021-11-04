@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nduraphe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Nagesh
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at nduraphe@gmail.com
 
